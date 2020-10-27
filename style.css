@@ -3109,7 +3109,7 @@ select.mobile-device {
 
 
 .banner-bg-1{
-	background: url(uploads/inner-bg.jpg);
+	background: url(img/gif/sanwa-forklift-top.gif);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
@@ -3181,7 +3181,7 @@ select.mobile-device {
 	background: rgba(34, 34, 34, 0.4);
 }
 .banner-bg-4{
-	background: url(uploads/inner-bg_4.jpg);
+	background: url(img/gif/sanwa-forklift-top.gif);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
